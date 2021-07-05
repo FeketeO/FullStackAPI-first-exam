@@ -4,7 +4,7 @@
  * @param {Number} id az id, ami alapján keresünk a tömbben
  * @returns a tömbnek az az eleme, amelynek az id -je megegyezik a kapottal
  */
-const get = (list = [], id = 0) => {
+const get = (list = [], id = 0) => {  
     //
 };
 
